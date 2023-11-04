@@ -10,4 +10,5 @@ Check inside package.json and above "name" add a "homepage": "http://{git.userna
 Within scripts make sure "predeploy": "npm run build",
 "deploy": "gh-pages -d build", are in them
 
-To get the deployed siteadd, commit, and push these changes, and then use "npm run deploy" and make sure it deploys correctly in Actions 
+To get the deployed site do add, commit, and push these changes, and then use "npm run deploy" and make sure it deploys correctly in Actions 
+Every time you want the live site to update and deploy you must rerun "npm run deploy"
