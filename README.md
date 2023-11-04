@@ -1,4 +1,5 @@
 # template
+This is a Website Template for a React js site with all the standard files to correcly deploy.
 Duplicate the files in this folder into a newly made repository
 
 Follow the steps to get it set up, ie git init, add, commit, and push
