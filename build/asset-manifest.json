@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Julia-O-Neill-Portfolio/static/js/main.cd3c430b.js",
-    "index.html": "/Julia-O-Neill-Portfolio/index.html",
-    "main.cd3c430b.js.map": "/Julia-O-Neill-Portfolio/static/js/main.cd3c430b.js.map"
+    "main.js": "/template/static/js/main.cd3c430b.js",
+    "index.html": "/template/index.html",
+    "main.cd3c430b.js.map": "/template/static/js/main.cd3c430b.js.map"
   },
   "entrypoints": [
     "static/js/main.cd3c430b.js"
